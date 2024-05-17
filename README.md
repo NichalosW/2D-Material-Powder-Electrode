@@ -6,3 +6,5 @@ Schematic of the Teflon powder electrode. The electrode is machined from one sol
 
 **Electrode Holder Design Notes:**
 Schematic of the simple 3d Printed electrode holder. The holder was printed out of standard 1.75 mm polypropylene filament and made to fit a standard 50 mL beaker with a 40 mm diameter. The holder has a space where a powder electrode or crystal clip can be positioned as well as two smaller holes for the placement of the reference electrode and counter electrode.
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license and is open to modification as long as accreditation is given to the original author. The contents of this repository are not available for commercialization as is outlined in the repository's license.
